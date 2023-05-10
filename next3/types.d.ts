@@ -1,4 +1,4 @@
-ranch: devtype Post = {
+type Post = {
   "userId": number,
   "id": number,
   "title": string,
