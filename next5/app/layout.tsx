@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} dark:bg-slate-800`}>
         <Navbar />
-        <ProfilePicture />
+
         {children}
       </body>
     </html>
